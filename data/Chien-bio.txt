@@ -1,0 +1,7 @@
+Tran Van Chien is an undergraduated student at the University of Engineering and Technology - Vietnam National University (Honors program), his major is Robotic Engineering.
+
+He is currently researching under the supervision of PhD. Phung Manh Duong (Senior Lecturer at Fulbright University Vietnam) and in close collaboration with PhD. Nguyen Thi Thanh Van (Senior Lecturer at University of Engineering and Technology - Vietnam National University). His research interests lie in implementing machine learning models that can understand visual information, reasoning, and extracting knowledge from a series of frames to help robots work effectively in complex dynamic environments.
+
+He is also fond of motion planning and path planning algorithms and SLAM (Simultaneous localization and mapping).
+
+Currently, his work focuses on how to make those planning algorithms more adaptive by combining them with Deep Learning techniques. In AI field: vision-Language problems, such as scene text visual question answering working with PhD. Student Nguyen Manh Nguyen (PhD student at University of Rochester, Newyork, USA)
